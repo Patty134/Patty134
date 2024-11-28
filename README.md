@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parth
-- 👀 I’m interested in 3d Art and Animation
+- 👀 I’m interested in Coding and 3d Animation
 - 🌱 I’m currently learning Game development
 - 💞️ I’m looking to collaborate on Development proects
 <!---
